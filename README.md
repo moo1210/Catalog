@@ -1,18 +1,12 @@
 Catalog
 =======
 
-This project contains source code for the virtual items which make up the [Roblox catalog](https://www.roblox.com/catalog/?category=5). Currently only gear items are included but we may add other item types later.
-
-## How can I contribute?
-
-You can help us improve the catalog by fixing bugs with gear items. Please see our [contributing guidelines](https://github.com/Roblox/Catalog/blob/master/CONTRIBUTING.md) to get started.
-
-## Got questions?
-
-If you have a question about this project, [file an issue](https://github.com/Roblox/Catalog/issues/new).
+This is a collection of the (legacy) gears on the Roblox catalog, with various improvements/fixes made to them. Currently a *very* early work in progress.
 
 ## License
 
-Copyright 2017 Roblox Corporation
+Copyright 2023 Carter Schuller (a.k.a. moo1210)
 
-This work is licensed under the Apache License, Version 2.0. See the [LICENSE](https://github.com/Roblox/Catalog/blob/master/LICENSE.txt) file for more details.
+This work is licensed under the Apache License, Version 2.0. See the [LICENSE](https://github.com/moo1210/Roblox-Catalog-2.0/blob/main/LICENSE.txt) file for more details.
+
+Based off of Roblox's gear catalog, also licensed under the [Apache License](https://github.com/Roblox/Catalog/blob/master/LICENSE.txt).
